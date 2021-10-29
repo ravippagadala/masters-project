@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pepsi</folder>
+	<filename>pepsi_8.png</filename>
+	<path>C:\Users\Admin\Documents\masters-project\resources\labelling\pepsi\pepsi_8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>47</width>
+		<height>79</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepsi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>43</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

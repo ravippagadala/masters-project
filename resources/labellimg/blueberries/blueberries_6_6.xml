@@ -1,0 +1,26 @@
+<annotation>
+	<folder>blueberries</folder>
+	<filename>blueberries_6_6.png</filename>
+	<path>C:\Users\Admin\Documents\masters-project\resources\labelling\blueberries\blueberries_6_6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>43</width>
+		<height>112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blueberries</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>43</xmax>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>
