@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shelves</folder>
+	<filename>first_shelf.jpg</filename>
+	<path>C:\Users\Admin\Documents\masters-project\resources\shelves\first_shelf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomatoes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2019</xmin>
+			<ymin>3212</ymin>
+			<xmax>2269</xmax>
+			<ymax>3712</ymax>
+		</bndbox>
+	</object>
+</annotation>

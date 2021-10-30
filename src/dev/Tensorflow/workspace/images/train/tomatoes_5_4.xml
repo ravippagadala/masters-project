@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomatoes</folder>
+	<filename>tomatoes_5_4.png</filename>
+	<path>C:\Users\Admin\Documents\masters-project\resources\labelling\tomatoes\tomatoes_5_4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>42</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomatoes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>4</ymin>
+			<xmax>40</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sevenup</folder>
+	<filename>sevenup_7_2.png</filename>
+	<path>C:\Users\Admin\Documents\masters-project\resources\labelling\sevenup\sevenup_7_2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>47</width>
+		<height>81</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sevenup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>8</ymin>
+			<xmax>46</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>
